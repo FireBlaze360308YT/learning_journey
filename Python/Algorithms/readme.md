@@ -1,0 +1,1 @@
+this repo will contain the learning im doing on algorithms, it will contain handmade implementation of known algorithms to test my knowledge and hopefully it will contain custom algorithms entirely made by miself!
